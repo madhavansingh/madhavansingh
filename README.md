@@ -62,3 +62,12 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavansingh&show_icons=true&locale=en&layout=compact" alt="madhavansingh" /></p>
+
+
+
+
+
+### 🐍 Contribution Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/madhavansingh/madhavansingh/output/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/madhavansingh/madhavansingh/output/snake.svg#gh-dark-mode-only)
