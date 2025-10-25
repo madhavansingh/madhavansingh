@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Full-Stack Web Development**  
 
-- 👯 I’m looking to collaborate on **open-source AI/ML and web development projects**  
+- 😸 I’m looking to collaborate on **open-source AI/ML and web development projects**  
 
 - 🔭 I’m exploring how **AI can solve real-world problems through innovative projects**  
 
