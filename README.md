@@ -68,8 +68,25 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhavansingh&show_icons=true&locale=en&layout=compact" alt="madhavansingh" /></p>
 
 
+<!-- Updated Snake and Contributions -->
+<!-- My GitHub Activity -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavansingh&theme=dark&hide_border=true" alt="Contribution Streak" />
+</p>
 
 
 
-
-![Snake animation](https://raw.githubusercontent.com/madhavansingh/madhavansingh/output/snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
