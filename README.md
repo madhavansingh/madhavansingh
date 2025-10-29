@@ -70,9 +70,13 @@
 
 <!-- Updated Snake and Contributions -->
 <!-- My GitHub Activity -->
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavansingh&theme=dark&hide_border=true" alt="Contribution Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=madhavansingh&show_icons=true&theme=tokyonight&count_private=true&custom_title=Madhavan's%20GitHub%20Stats" alt="Madhavan's GitHub Stats"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavansingh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavansingh&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
+
 
 
 
