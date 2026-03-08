@@ -35,7 +35,7 @@
 #!/usr/bin/env python3
 
 class Developer:
-    name = "Madhavan Singh"
+    name = "Madhavan Singh Parihar"
     role = "AI / ML Developer"
     location = "India 🇮🇳"
 
