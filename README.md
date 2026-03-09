@@ -245,7 +245,7 @@ print("Building intelligent systems.")
 <td align="center"><b>🚀 Deployment</b></td>
 <td align="center"><b>🌍 Applications</b></td>
 </tr>
-
+ 
 <tr>
 
 <td align="center">
@@ -446,6 +446,6 @@ Automation
 
 <br/>
 
-**— Madhavan · madhavansingh · 2026**
+**— Madhavan Singh Parihar · madhavansingh · 2026**
 
 </div>
