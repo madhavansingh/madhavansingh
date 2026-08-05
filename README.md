@@ -18,9 +18,10 @@
 > LLMs, full-stack apps, developer tools, and whatever sounds impossible.
 
 
-I build AI-native products that people actually use. From intelligent agents and
-developer tools to full-stack platforms, I enjoy turning ambitious ideas into
-software that feels simple, fast, and useful.
+I build AI-native products that people actually use.<br>
+From intelligent agents and developer tools<br>
+to full-stack platforms, I turn ambitious ideas<br>
+into software that's simple, fast, and useful.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
