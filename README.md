@@ -1,45 +1,49 @@
 <div align="center">
 
-<img src="./ascii.svg" width="460" alt="Andrii Drok"/>
+<img src="./ascii.svg" width="460" alt="Madhavan"/>
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-[andriidrok.com](https://andriidrok.com) &nbsp;·&nbsp;
-[instagram](https://www.instagram.com/andrii_drok/) &nbsp;·&nbsp;
-[linkedin](https://www.linkedin.com/in/andriidrok/) &nbsp;·&nbsp;
-[email](mailto:clb@mirasvit.com)
+[portfolio](https://madhavann.in) &nbsp;·&nbsp;
+[x](https://x.com/MadhavanEra) &nbsp;·&nbsp;
+[linkedin](https://linkedin.com/in/madhavan-singh) &nbsp;·&nbsp;
+[github](https://github.com/madhavansingh) &nbsp;·&nbsp;
+[email](mailto:madhavansingh32@email.com)
 
 </div>
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> CS student at San Francisco State, in the SF Bay Area.<br>
-> Small, sharp tools over big vague ideas.
+> AI Developer building at the intersection of software and intelligence.<br>
+> LLMs, full-stack apps, developer tools, and whatever sounds impossible.
 
-I build fast, test on real users, and kill what doesn't work. Right now that's<br>
-[autobroll](https://github.com/andriidrok1/autobroll) — an AI short-form video editor that runs in the browser. Also<br>
-deep into markets: Pine Script indicators, backtesting, on-chain data.
+
+I build AI-native products that people actually use. From intelligent agents and
+developer tools to full-stack platforms, I enjoy turning ambitious ideas into
+software that feels simple, fast, and useful.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; three.js &nbsp; fastapi &nbsp; postgres &nbsp; docker &nbsp; git &nbsp; linux</samp>
+<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; next.js &nbsp; node.js &nbsp; express &nbsp; fastapi &nbsp; flutter &nbsp; supabase &nbsp; postgresql &nbsp; mongodb &nbsp; firebase &nbsp; docker &nbsp; git &nbsp; linux &nbsp; ollama &nbsp; gemini</samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[autobroll](https://github.com/andriidrok1/autobroll)** &nbsp;·&nbsp; <samp>typescript, remotion</samp><br>
-AI short-form video editor in the browser. Auto captions with accents,<br>
-drag-and-retime editing, b-roll placement: transcript in, rendered video out.
+**[EduVerse](https://github.com/madhavansingh/Eduverse)** &nbsp;·&nbsp; <samp>python, ai, llms</samp><br>
+AI-native cognitive infrastructure that transforms educational content into<br>
+structured knowledge, adaptive tutoring, intelligent assessments, and<br>
+personalized learning experiences.
 
-**[strategy-checker](https://github.com/andriidrok1/strategy-checker)** &nbsp;·&nbsp; <samp>python</samp><br>
-Describe a trading strategy in plain English, get a real backtest with<br>
-statistical validation. Exposes curve-fitting, not alpha.
+**[ZeroPay](https://github.com/madhavansingh/ZeroPay-app)** &nbsp;·&nbsp; <samp>flutter, firebase, ai</samp><br>
+AI-powered digital payments platform focused on seamless transactions,<br>
+financial intelligence, and a modern mobile-first user experience.
 
-**[compound](https://github.com/andriidrok1/compound)** &nbsp;·&nbsp; <samp>typescript, convex</samp><br>
-Autonomous research agent for your second brain. Built solo at Nozomio<br>
-Hackathon, EF SF.
+**[Legal TimeLock](https://github.com/madhavansingh/TimeLock)** &nbsp;·&nbsp; <samp>solana, rust, blockchain</samp><br>
+Blockchain-powered legal document verification platform using immutable<br>
+timestamps, decentralized storage, and cryptographic proof of authenticity.
 
-**[andriidrok.com](https://andriidrok.com)** &nbsp;·&nbsp; <samp>three.js, webgl</samp><br>
-Particle-morph portfolio: thousands of particles reshaping between scenes.
+**[Shery AI](https://github.com/madhavansingh/Shery)** &nbsp;·&nbsp; <samp>react, gemini, ai</samp><br>
+AI workspace for conversational intelligence, document understanding,<br>
+knowledge retrieval, and intelligent workflow automation.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
@@ -55,21 +59,7 @@ Particle-morph portfolio: thousands of particles reshaping between scenes.
 
 <img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
-Every graphic here is generated, not embedded from anyone else's server.<br>
-`ascii.svg` is a photo pushed through a character ramp by<br>
-[`scripts/make_portrait.py`](scripts/make_portrait.py); the stat graphics and<br>
-these section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
-straight from the GitHub GraphQL API, once a day, committing only what changed.
-
-They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
-READMEs — and since nothing loads from a third party, nothing here can<br>
-rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
-strips CSS, so an image is the only way to put this page's own typeface on them.
-
-The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters<br>
-each graphic draws and inlined as base64. That isn't only for looks: the<br>
-portrait's grid assumes an advance width of exactly 0.600 em, and a viewer whose<br>
-default monospace is narrower would otherwise see it squeezed.
-
-Language totals cover public repositories only. `year.svg` uses the portrait's<br>
-character ramp: `:` `+` `#` `@`, quiet to loud.
+This profile is built entirely from code. Every visual, statistic, and
+contribution graph is generated directly from this repository and updated
+automatically using GitHub Actions and the GitHub GraphQL API, keeping the
+profile lightweight, self-contained, and always up to date.
