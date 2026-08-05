@@ -29,19 +29,19 @@ software that feels simple, fast, and useful.
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
 
-**[ZeroPay](https://github.com/madhavansingh/ZeroPay-app)** &nbsp;·&nbsp; <samp>flutter, firebase, ai</samp><br>
-AI-powered digital payments platform focused on seamless transactions,<br>
-financial intelligence, and a modern mobile-first user experience.
+**ZeroPay** &nbsp;·&nbsp; <samp>flutter, blockchain, solana</samp><br>
+Decentralized payment platform with secure transactions, wallet integration,<br>
+and a seamless mobile-first experience.
 
-**[Legal TimeLock](https://github.com/madhavansingh/TimeLock)** &nbsp;·&nbsp; <samp>solana, rust, blockchain</samp><br>
-Blockchain-powered legal document verification platform using immutable<br>
-timestamps, decentralized storage, and cryptographic proof of authenticity.
+**TimeLock** &nbsp;·&nbsp; <samp>solidity, blockchain, ipfs</samp><br>
+Blockchain-based legal document timestamping with immutable storage,<br>
+cryptographic verification, and proof of authenticity.
 
-**[Shery AI](https://github.com/madhavansingh/Shery)** &nbsp;·&nbsp; <samp>react, gemini, ai</samp><br>
+**Shery AI** &nbsp;·&nbsp; <samp>react, gemini, ai</samp><br>
 AI workspace for conversational intelligence, document understanding,<br>
 knowledge retrieval, and intelligent workflow automation.
 
-**[EduVerse](https://github.com/madhavansingh/Eduverse)** &nbsp;·&nbsp; <samp>python, ai, llms</samp><br>
+**EduVerse** &nbsp;·&nbsp; <samp>python, ai, llms</samp><br>
 AI-native cognitive infrastructure that transforms educational content into<br>
 structured knowledge, adaptive tutoring, intelligent assessments, and<br>
 personalized learning experiences.
