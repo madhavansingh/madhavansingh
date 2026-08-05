@@ -24,14 +24,10 @@ software that feels simple, fast, and useful.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; next.js &nbsp; node.js &nbsp; express &nbsp; fastapi &nbsp; flutter &nbsp; supabase &nbsp; postgresql &nbsp; mongodb &nbsp; firebase &nbsp; docker &nbsp; git &nbsp; linux &nbsp; ollama &nbsp; gemini</samp>
+<samp>python &nbsp; typescript &nbsp; c++ &nbsp; pytorch &nbsp; machine-learning &nbsp; deep-learning &nbsp; llms &nbsp; computer-vision &nbsp; nlp &nbsp; rag &nbsp; embeddings &nbsp; vector-search &nbsp; distributed-systems &nbsp; backend &nbsp; postgresql &nbsp; docker &nbsp; linux</samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[EduVerse](https://github.com/madhavansingh/Eduverse)** &nbsp;·&nbsp; <samp>python, ai, llms</samp><br>
-AI-native cognitive infrastructure that transforms educational content into<br>
-structured knowledge, adaptive tutoring, intelligent assessments, and<br>
-personalized learning experiences.
 
 **[ZeroPay](https://github.com/madhavansingh/ZeroPay-app)** &nbsp;·&nbsp; <samp>flutter, firebase, ai</samp><br>
 AI-powered digital payments platform focused on seamless transactions,<br>
@@ -45,6 +41,11 @@ timestamps, decentralized storage, and cryptographic proof of authenticity.
 AI workspace for conversational intelligence, document understanding,<br>
 knowledge retrieval, and intelligent workflow automation.
 
+**[EduVerse](https://github.com/madhavansingh/Eduverse)** &nbsp;·&nbsp; <samp>python, ai, llms</samp><br>
+AI-native cognitive infrastructure that transforms educational content into<br>
+structured knowledge, adaptive tutoring, intelligent assessments, and<br>
+personalized learning experiences.
+
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
@@ -53,13 +54,6 @@ knowledge retrieval, and intelligent workflow automation.
 
 <img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
-<img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
 </div>
 
-<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
-
-This profile is built entirely from code. Every visual, statistic, and
-contribution graph is generated directly from this repository and updated
-automatically using GitHub Actions and the GitHub GraphQL API, keeping the
-profile lightweight, self-contained, and always up to date.
